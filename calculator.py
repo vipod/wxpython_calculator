@@ -1,6 +1,7 @@
-"""wxPython learning program: Integer Calculater
+"""
+    wxPython learning program: Integer Calculator
 
-   Author: Vitaliy Podoba vitaliypodoba@gmail.com
+    Author: Vitaliy Podoba vitaliypodoba@gmail.com
 """
 
 import wx
